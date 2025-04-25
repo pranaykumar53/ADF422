@@ -65,7 +65,7 @@
 						"userProperties": [],
 						"typeProperties": {
 							"waitTimeInSeconds": {
-								"value": "@pipeline().parameters.wtime",
+								"value": "@pipeline().parameters.wer",
 								"type": "Expression"
 							}
 						}
@@ -75,7 +75,7 @@
 					"elapsedTimeMetric": {}
 				},
 				"parameters": {
-					"wtime": {
+					"wer": {
 						"type": "int",
 						"defaultValue": 2
 					}
