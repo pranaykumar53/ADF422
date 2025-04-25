@@ -21,6 +21,8 @@
 				"defaultValue": 2
 			}
 		},
-		"annotations": []
-	}
+		"annotations": [],
+		"lastPublishTime": "2025-04-22T22:08:07Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
 }
